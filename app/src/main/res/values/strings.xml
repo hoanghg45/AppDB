@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppDB</string>
+    <string-array name="country">
+        <item>VietNam</item>
+        <item>UnitedKingdom</item>
+        <item>Japan</item>
+        <item>SouthKorea</item>
+    </string-array>
+</resources>
